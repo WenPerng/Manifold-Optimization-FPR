@@ -1,6 +1,6 @@
-# Manifold Optimization on the Amplitude Tori of Fourier Phase Retrieval Problems
+# Manifold Optimization on the Magnitude Torus for Fourier Phase Retrieval
 
-> This repository contains the code to generate the figures in our work "*Manifold Optimization on the Amplitude Tori of Fourier Phase Retrieval Problem*," which also includes the code to run the experiments in the paper and also some other useful codes.
+> This repository contains the code to reproduce the simulations present in our work "*Manifold Optimization on the Magnitude Torus for Fourier Phase Retrieval*," which includes the code used in both the manuscript and the supplemental materials.
 
 ## Descriptions of Codes
 Here we separate the codes by their purposes, so the user can read the descriptions and know which one they want to use and download.
