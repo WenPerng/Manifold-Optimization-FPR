@@ -15,8 +15,13 @@ The algorithms we provided (replaced with `XXX` below) includes:
 ### Success Rate
 The codes with `SuccessRate_XXX` in their filenames are used to generate the success rate seen in **Table 1** of the paper, which outputs the success rate of the said algorithm under 1000 iterations.
 
+The file `Restarts_dualPGD` is used to generate the success rate seen in **Section B.1** in the supplementary material of the paper.
+
 ### Success Rate Noisy
-The codes with `SuccessRate_noisy_XXX` in their filenames are used to generate the success rate seen in **Table B1** in the supplmentary material of the paper, which outputs the success rate of the said algorithm under 1000 iterations.
+The codes with `SuccessRate_noisy_XXX` in their filenames are used to generate the success rate seen in **Table B1** in the supplementary material of the paper, which outputs the success rate of the said algorithm under 1000 iterations.
 
 ### Data Set
 The file `img_BadApple.mat` is a saved image variable that loads the test image **Fig. 3(d)**.
+
+### Hessian
+The file `Hessian.m` displays the spectrum of the Hessian at a point using a histogram. The file `local_min_data.mat` is the local minima of **Fig. 3(d)** used to generate **Fig. 4** in the manuscript.
