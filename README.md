@@ -16,7 +16,7 @@ The algorithms we provided (replaced with `XXX` below) includes:
 The codes with `SuccessRate_XXX` in their filenames are used to generate the success rate seen in **Table 1** of the paper, which outputs the success rate of the said algorithm under 1000 iterations.
 
 ### Success Rate Noisy
-The codes with `SuccessRate_noisy_XXX` in their filenames are used to generate the success rate seen in **Table B1** in the supplmentary material of the paper, which outputs the success rate of the said algorithm under 1000 iterations.
+The codes with `SuccessRate_noisy_XXX` in their filenames are used to generate the success rate seen in **Table B1** in the supplmentary material of the paper, which outputs the success rate of the noisy Fourier magnitudes of the said algorithm under 1000 iterations.
 
 ### Data Set
 The file `img_BadApple.mat` is a saved image variable that loads the test image **Fig. 3(d)**.
